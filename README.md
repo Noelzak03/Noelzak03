@@ -2,7 +2,7 @@
 
 
 - 🧑‍🎓 I am Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.  
-- 🌱 I'm enrolled at Motilal Nehru National Institute of Technology,Allahabad.
+- 🌱 I'm enrolled at Motilal Nehru National Institute of Technology, Allahabad.
 
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/noelbinoy/">
