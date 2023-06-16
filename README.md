@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Noelzak03/Noelzak03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🧑‍🎓 I am Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.  
+- 🌱 I'm enrolled at Motilal Nehru National Institute of Technology,Allahabad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/noelbinoy/">
+  <img align="left" alt="MatriMariem" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://discordapp.com/users/847522675613237249">
+  <img align="left" alt="MatriMariem" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
