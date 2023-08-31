@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 - 👨🏾‍🎓 I'm Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.
