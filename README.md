@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- 👨🏾‍🎓I am Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.  
+- 👨🏾‍🎓 I'm Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.
 - 🌱 I'm enrolled at Motilal Nehru National Institute of Technology, Allahabad.
-- 💻 Currently working on Front-end web devlopment as well as Machine Learning.
+- 💻 Currently working on Front-end web development as well as Machine Learning.
 - ⏰ Feel free to contact me at any time.
 
 ## 📫 How to reach me:  
