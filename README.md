@@ -6,7 +6,7 @@
 - 💻 Currently working on Front-end web devlopment as well as Machine Learning.
 - ⏰ Feel free to contact me at any time.
 
-### 📫 How to reach me:  
+## 📫 How to reach me:  
 
 <p align="center" >
  <a href="󠁀https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=noelzakbin03@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Gmail" height="50" "> </a>
@@ -16,7 +16,7 @@
 
 <br />
 
-### 🖥️ Programming Languages:br>
+## 🖥️ Programming Languages:
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="50" width="50" "/>
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" height="50" width="50" />
@@ -28,7 +28,7 @@
   
 </div>
 
-### 🔧 Tools and Frameworks:<br>
+## 🔧 Tools and Frameworks:<br>
 <div align="center">
  <img src="https://cdn-icons-png.flaticon.com/128/4500/4500935.png" alt="git" height="50" width="50" />
  <img src="https://img.icons8.com/?size=1x&id=n3QRpDA7KZ7P&format=png" alt="Tf" height="50" width="50" />  
