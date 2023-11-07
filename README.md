@@ -13,7 +13,7 @@
  <a href="󠁀https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=noelzakbin03@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Gmail" height="50" "> </a>
   <img src="./aligner.png" height=10 width=10 />
  <a href="https://www.linkedin.com/in/noelbinoy/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="50" ></a>
-  <img src="./aligner.png" height=5 width=5 />
+  <img src="./aligner.png" height=10 width=10 />
  <a href="https://discordapp.com/users/847522675613237249"> <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Discord" height="50"></a> 
   <img src="./aligner.png" height=10 width=10 />
 </p>
