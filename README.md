@@ -9,7 +9,7 @@
 ## 📫 How to reach me:  
 
 <p align="center" >
-  <img src="./aligner.png" height=10 width=10 />
+  <img src="./aligner.png" height=5 width=5/>
  <a href="󠁀https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=noelzakbin03@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Gmail" height="50" "> </a>
   <img src="./aligner.png" height=10 width=10 />
  <a href="https://www.linkedin.com/in/noelbinoy/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="50" ></a>
@@ -22,19 +22,19 @@
 
 ## 🖥️ Programming Languages:
 <div align="center">
-  <img src="./aligner.png" height=5 width=5 />
+  <img src="./aligner.png" height=3 width=3 />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="50" width="50" "/>
   <img src="./aligner.png" height=5 width=5 />
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" height="50" width="50" />
   <img src="./aligner.png" height=5 width=5 />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" width="50" />
   <img src="./aligner.png" height=5 width=5 />
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt="HTML" height="50" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="50" width="50" />
   <img src="./aligner.png" height=5 width=5 />
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" height="50" width="50" /> 
-  <img src="./aligner.png" height=5 width=5 />
-  <img src="https://img.icons8.com/?size=1x&id=7AFcZ2zirX6Y&format=png" alt="CSS" height="50" width="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="50" width="50" /> 
    <img src="./aligner.png" height=5 width=5 />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS" height="50" width="50" /> 
+
   
 </div>
 
@@ -47,9 +47,9 @@
  <img src="./aligner.png" height=5 width=5 />
   <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="vsc" height="50" width="50" />
  <img src="./aligner.png" height=5 width=5/>
-  <img src="https://img.icons8.com/?size=1x&id=EgOU93v1DHjU&format=png" alt="Android" height="50" width="50" />
- <img src="./aligner.png" height=5 width=5 />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=avif&w=256" alt="Java" height="50" width="50" />
+  
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="50" width="50" />
   <img src="./aligner.png" height=5 width=5 />
   
 </div>
