@@ -1,14 +1,14 @@
 # Hi there 👋
 
 
-- 👨🏾‍🎓 I'm Noel Zachariah Binoy, a 3<sup>rd</sup> year Computer Science and Engineering student.
+- 👨🏾‍🎓 I'm Noel Zachariah Binoy, a 4<sup>th</sup> year Computer Science and Engineering student.
 - 🌱 I'm enrolled at Motilal Nehru National Institute of Technology, Allahabad.
-- 💻 Currently working on Front-end web development as well as Machine Learning.
+- 💻 Currently working on Web development as well as Machine Learning.
 - ⏰ Feel free to contact me at any time.
 
 ## 📫 How to reach me:  
 
-<p align="center" >
+<p align="left" >
   <img src="./aligner.png" height="2" width="2"/>
  <a href="󠁀https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=noelzakbin03@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Gmail" height="40" "> </a>
   <img src="./aligner.png" height=10 width=10 />
@@ -21,7 +21,7 @@
 <br />
 
 ## 🖥️ Programming Languages:
-<div align="center">
+<div align="left">
   <img src="./aligner.png" height=3 width=3 />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" width="40" "/>
   <img src="./aligner.png" height=5 width=5 />
@@ -39,7 +39,7 @@
 </div>
 
 ## 🔧 Tools and Frameworks:<br>
-<div style="margin-right:15px" align="center">
+<div style="margin-right:15px" align="left">
  <img src="./aligner.png" height=5 width=5 />
  <img src="https://cdn-icons-png.flaticon.com/128/4500/4500935.png" alt="git" height="40" width="40" />
  <img src="./aligner.png" height=5 width=5 />
